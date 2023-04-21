@@ -35,7 +35,7 @@
 </br>
 <img align="left" alt="Redux" src="https://img.shields.io/badge/Redux%236DB33F.svg?style=for-the-badge&logo=Redux" />
 <img align="left" alt="Ngrx" src="https://img.shields.io/badge/Ngrx-%236DB33F.svg?style=for-the-badge&logo=Ngrx" />
-<img align="left" alt="ELK-Elastic Search Engine" src="https://img.shields.io/badge/ELK-Elastic Serch Engine-%2320232a.svg?style=for-the-badge&logo=ELK />
+<img align="left" alt="ELK-Elastic Search Engine" src="https://img.shields.io/badge/ELK-Elastic Serch Engine-%2320232a.svg?style=for-the-badge&logo=ELK" />
 <img alt="Messaging Queues (RMQ)" src="https://img.shields.io/badge/RMQ-%2320232a.svg?style=for-the-badge&logo=RMQ />
 
 <p align="left"> 
