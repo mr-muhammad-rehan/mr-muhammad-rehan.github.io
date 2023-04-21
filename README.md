@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
-<img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/18234947?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
+<img alt="Muhamad Rehan" src="https://avatars.githubusercontent.com/u/18234947?v=4" width="260" height="260">
 </p>
 
 - 🔭 I’m currently working as **Software Engineer**
@@ -35,7 +35,7 @@
 </br>
 <p align="left" alt="Single page Applications (SPA)" />
 </br>
-<img align="left" alt="Redux" src="https://img.shields.io/badge/Redux%236DB33F.svg?style=for-the-badge&logo=Redux" />
+<img align="left" alt="Redux" src="https://img.shields.io/badge/Redux-%236DB33F.svg?style=for-the-badge&logo=Redux" />
 <img align="left" alt="Ngrx" src="https://img.shields.io/badge/Ngrx-%236DB33F.svg?style=for-the-badge&logo=Ngrx" />
 <img align="left" alt="ELK-Elastic Search Engine" src="https://img.shields.io/badge/ELK-Elastic Serch Engine-%2320232a.svg?style=for-the-badge&logo=ELK" />
 <img alt="Messaging Queues (RMQ)" src="https://img.shields.io/badge/RMQ-%2320232a.svg?style=for-the-badge&logo=RMQ" />
