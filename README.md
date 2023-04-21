@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rehan</h1>
 <h3 align="center">Software Developer - JavaScript</h3>
 
-<img align="right" alt="Coding" width="400" src="...">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="" alt="muhammad-rehan" /> </p>
+<p align="left"> <img src="https://media.licdn.com/dms/image/D4D03AQGwYwaYd3rWXg/profile-displayphoto-shrink_800_800/0/1665920389129?e=1687392000&v=beta&t=eLlbN3wcJs-sLsfm6UAVabILt8prF77wOex_a5uGKS8" alt="muhammad-rehan" /> </p>
 
 - 🔭 I’m currently working as **Software Engineer**
 
