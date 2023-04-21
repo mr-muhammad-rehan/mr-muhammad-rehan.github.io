@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rehan</h1>
 <h3 align="center">Software Developer - JavaScript</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left">
 <img alt="Muhamad Rehan" src="https://avatars.githubusercontent.com/u/18234947?v=4" width="260" height="260">
@@ -32,9 +32,9 @@
 <img align="left" alt="React.js" src="https://img.shields.io/badge/React.js-%231572B6.svg?style=for-the-badge&logo=React.js" />
 <img align="left" alt="Angular" src="https://img.shields.io/badge/Angular-%236DB33F.svg?style=for-the-badge&logo=Angular" />
 <img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-%236DB33F.svg?style=for-the-badge&logo=Node.js" />
-</br>
+<br>
 <p align="left" alt="Single page Applications (SPA)" />
-</br>
+<br>
 <img align="left" alt="Redux" src="https://img.shields.io/badge/Redux-%236DB33F.svg?style=for-the-badge&logo=Redux" />
 <img align="left" alt="Ngrx" src="https://img.shields.io/badge/Ngrx-%236DB33F.svg?style=for-the-badge&logo=Ngrx" />
 <img align="left" alt="ELK-Elastic Search Engine" src="https://img.shields.io/badge/ELK-Elastic Serch Engine-%2320232a.svg?style=for-the-badge&logo=ELK" />
