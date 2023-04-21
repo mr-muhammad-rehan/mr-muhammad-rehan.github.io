@@ -3,7 +3,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/D4D03AQGwYwaYd3rWXg/profile-displayphoto-shrink_800_800/0/1665920389129?e=1687392000&v=beta&t=eLlbN3wcJs-sLsfm6UAVabILt8prF77wOex_a5uGKS8" alt="muhammad-rehan" /> </p>
+<p align="left">
+<img style="height:auto;" alt="" src="https://avatars.githubusercontent.com/u/18234947?v=4" width="260" height="260" class="avatar avatar-user width-full border color-bg-default">
+</p>
 
 - 🔭 I’m currently working as **Software Engineer**
 
