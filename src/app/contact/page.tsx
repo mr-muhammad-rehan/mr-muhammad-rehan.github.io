@@ -1,8 +1,11 @@
-import ContactForm from "@/components/ContactForm";
 import FramerWrapper from "@/components/FramerWrapper";
 import Heading from "@/components/Heading";
 import { Badge } from "@/components/ui/badge";
 import { Phone } from "lucide-react";
+import dynamic from 'next/dynamic' 
+const ContactForm = dynamic(() => import('@/components/ContactForm'), {
+  loading: () => <p>Loading...</p>,
+})
 
 
  
