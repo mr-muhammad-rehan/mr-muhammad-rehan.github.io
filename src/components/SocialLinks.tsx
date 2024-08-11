@@ -6,10 +6,10 @@ import FramerWrapper from "./FramerWrapper";
 
 const SocialLinks = () => {
   const links = [
-    { name: "Twitter", link: "#", icon: <Twitter /> },
-    { name: "Linkedin", link: "#", icon: <Linkedin /> },
-    { name: "Mail", link: "#", icon: <Mail /> },
-    { name: "Quick Chat", link: "#", icon: <MessageCircle /> },
+    { name: "Twitter", link: "https://x.com/rehandevprgmr", icon: <Twitter /> },
+    { name: "Linkedin", link: "https://www.linkedin.com/in/mmd-rehan/", icon: <Linkedin /> },
+    { name: "Mail", link: "mailto:mrmuhammadrehan65@gmail.com", icon: <Mail /> },
+    { name: "Quick Chat", link: "/contact", icon: <MessageCircle /> },
     { name: "External", link: "#", icon: <ExternalLink /> },
   ];
   return (

@@ -21,13 +21,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **E-commerce Applications**
+- 🔭 I’m currently working on **Web Applications**
 
-- 🌱 I’m currently learning **LLM's, NLP, Generative AI's**
+- 🌱 I’m currently learning **LLM's, NLP, Generative AI's and Block-Chain**
 
-<!-- - 👯 I’m looking to collaborate on **[Project Name/Type]** -->
+- 👯 I’m looking to collaborate on **React and Node.js Based Projects**
 
-- 🤝 I’m looking for help with **[Learning AI]**
+- 🤝 I’m looking for help with **[Learning AI and Block-Chain]**
 
 - 💬 Ask me about **Anything Related To Software Development**
 
@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-    <!-- <img src="https://activity-graph.herokuapp.com/graph?username=mr-muhammad-rehan&theme=minimal" /> -->
+
 </p>
 
 ## Connect with me:
@@ -74,7 +74,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
   </a>
   
-  <a href="https://mr-muhammad-rehan.github.io/mr-muhammad-rehan/" target="_new"> 
+  <a href="https://mr-muhammad-rehan.github.io/" target="_new"> 
     <img alt="Static Badge" src="https://img.shields.io/badge/my_personal_web_site-1DA1F2?style=for-the-badge&logo=ko-fi&logoColor=white"/>
   </a>
 </p>
@@ -82,5 +82,5 @@
 ## 🐍 Snake
 
 <p align="center">
-  <img src="https://github.com/mr-muhammad-rehan/mr-muhammad-rehan/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <img src="https://github.com/mr-muhammad-rehan/mr-muhammad-rehan.github.io/blob/output/github-contribution-grid-snake.svg" alt="Snake Game" />
 </p>

@@ -108,7 +108,7 @@ export const metadata: Metadata = {
     creator: "@rehandevprgmr",
   },
   icons: {
-    icon: "/favicon.ico",
+    icon: "./favicon.ico",
   },
 };
 

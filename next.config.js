@@ -5,7 +5,7 @@ const nextConfig = {
             '@react-email/render',
         ]
     },
-    output: 'export', 
+    // output: 'export', 
 }
 
 module.exports = nextConfig;
