@@ -4,7 +4,9 @@ import "./globals.css";
 import { cn } from "@/lib/utils";
 import Navbar from "@/components/Navbar";
 import { siteConfig } from "./page";
-import dynamic from 'next/dynamic'
+import dynamic from 'next/dynamic';
+import Head from 'next/head';
+
 import { GITHUB_URL_PROFILE, HOMEPAGE_URL } from "@/lib/constraints";
 const ParticlesBackground = dynamic(() => import('@/components/ParticlesBackground'), {
   ssr: false
@@ -132,6 +134,8 @@ export default function RootLayout({
           {children}
         </main>
       </body>
+      <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+      <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerPolicy="no-referrer-when-downgrade" /></noscript>
     </html>
   );
 }
