@@ -1,16 +1,15 @@
 import type { Metadata } from "next";
 import { Poppins, Rubik } from "next/font/google";
 import "./globals.css";
+import ogImage from '../../public/og-image.png';
 import { cn } from "@/lib/utils";
 import Navbar from "@/components/Navbar";
-import { siteConfig } from "./page";
 import dynamic from 'next/dynamic';
-import Head from 'next/head';
-
 import { GITHUB_URL_PROFILE, HOMEPAGE_URL } from "@/lib/constraints";
 const ParticlesBackground = dynamic(() => import('@/components/ParticlesBackground'), {
-  ssr: false
-})
+  ssr: false,
+  loading: () => <></>
+});
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -22,6 +21,13 @@ const rubik = Rubik({
   weight: "600",
   variable: "--font-rubik",
 });
+
+export const siteConfig = {
+  name: "Muhammad Rehan",
+  description: "I am a Passionate Software Developer",
+  ogImage: ogImage,
+  url: HOMEPAGE_URL,
+}
 
 export const metadata: Metadata = {
   metadataBase: new URL(HOMEPAGE_URL),

@@ -46,7 +46,7 @@ const ParticlesBackground = () => {
             },
             collisions: {
                 absorb: {
-                    speed: 2,
+                    speed: 1,
                 },
                 bounce: {
                     horizontal: {
@@ -64,9 +64,9 @@ const ParticlesBackground = () => {
             move: {
                 enable: true,
                 outModes: {
-                    default: "out",
+                    default: "destroy",
                 },
-                speed: 2,
+                speed: 1,
             },
             number: {
                 density: {
@@ -83,7 +83,7 @@ const ParticlesBackground = () => {
                 },
                 animation: {
                     enable: true,
-                    speed: 0.5,
+                    speed: 0.2,
                     startValue: "random",
                 },
             },
@@ -97,7 +97,7 @@ const ParticlesBackground = () => {
                 },
                 animation: {
                     enable: true,
-                    speed: 3,
+                    speed: 1,
                     startValue: "random",
                 },
             },

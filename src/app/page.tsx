@@ -8,12 +8,6 @@ import DownLoadResumeBtn from "@/components/DownLoadResumeBtn";
 import FramerWrapper from "@/components/FramerWrapper";
 
 
-export const siteConfig = {
-  name: "Muhammad Rehan",
-  description: "I am a Passionate Software Developer",
-  ogImage: "",
-  url: "",
-}
 export default function Home() {
   return (
     <>
