@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Poppins, Rubik } from "next/font/google";
 import "./globals.css";
-import ogImage from '../../public/og-image.png';
+import ogImage from '../../public/og-image.jpg';
 import { cn } from "@/lib/utils";
 import Navbar from "@/components/Navbar";
 import dynamic from 'next/dynamic';
@@ -105,14 +105,14 @@ export const metadata: Metadata = {
     url: HOMEPAGE_URL,
     title: siteConfig.name,
     description: siteConfig.description,
-    images: [`${HOMEPAGE_URL}/og-image.png`],
+    images: [`${HOMEPAGE_URL}/og-image.jpg`],
     siteName: siteConfig.name,
   },
   twitter: {
     card: "summary_large_image",
     title: siteConfig.name,
     description: siteConfig.description,
-    images: [`${HOMEPAGE_URL}/og-image.png`],
+    images: [`${HOMEPAGE_URL}/og-image.jpg`],
     creator: "@rehandevprgmr",
   },
   icons: {
