@@ -28,9 +28,8 @@ const ProjectCards: React.FC<projectcardprops> = ({ value, num }) => {
         <p className="text-base font-poppins">{value.description}</p>
       <div className=" w-full h-fit flex mt-2 justify-center flex-row gap-3">
         {
-          value.tags.map((itm:string, indx:number) => {
-            // return <Badge key={indx}>{itm}</Badge>
-            return <span className={`inline-flex items-center gap-x-1.5 py-1.5 px-3 rounded-full text-xs font-medium ${itm === 'Nextjs' && 'bg-teal-100 text-teal-800' || itm === 'Freelancing' && 'bg-yellow-100 text-yellow-800 ' || itm === 'Shadcn Ui' && 'bg-blue-100 text-blue-800' || itm === 'Typescript' && 'bg-red-100 text-red-800' || 'bg-gray-100 text-gray-800'}  `} key={indx}>{itm}</span>
+          value.tags.map((itm:string, indx:number) => { 
+            return <span className={`inline-flex items-center gap-x-1.5 py-1.5 px-3 rounded-full text-xs font-medium ${itm === 'Nextjs' && 'bg-teal-100 text-teal-800' || itm === 'Node.js' && 'bg-yellow-100 text-yellow-800 ' || itm === 'JavaScript' && 'bg-blue-100 text-blue-800' || itm === 'Typescript' && 'bg-red-100 text-red-800' || 'bg-gray-100 text-gray-800'}  `} key={indx}>{itm}</span>
           })
         }
         </div>

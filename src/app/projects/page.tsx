@@ -14,6 +14,20 @@ const projectsPage = () => {
       tags: ["Postgress", "Authjs", "Typescript", "Nextjs"],
       link: "https://github.com/mr-muhammad-rehan/shorturl",
     },
+    {
+      title: "ChatCat Application - Multi-Chatroom application for using socket.io",
+      description:
+        "ChatCat is a multi-chatroom application built using Node.js. It allows users to engage in conversations within multiple chatrooms.",
+      tags: ["Socket.io", "Node.js", "JavaScript"],
+      link: "https://github.com/mr-muhammad-rehan/chatCat",
+    },
+    {
+      title: "ZK Door Opener - Zkteco Access controlled dooer openner",
+      description:
+        "ZK Door Opener is windows application to open access door with a click from computer",
+      tags: ["Windows Forms", ".NET Desktop", "C#", "ZKTeco"],
+      link: "https://github.com/mr-muhammad-rehan/ZK-Device-Door-Opener",
+    },
   ];
 
   return (
@@ -26,10 +40,10 @@ const projectsPage = () => {
       <div className="flex flex-col gap-3">
         <Heading>My Projects</Heading>
         <FramerWrapper y={0} x={200}>
-          <p className=" font-poppins text-lg w-full text-primary max-sm:text-base">
+          <p className=" font-poppins text-lg w-full text-primary max-sm:text-base bg-white p-4">
             I love to Build Cool Projects. Here, you&#x27;ll find a curated
             collection of my creative endeavors and technical projects. Each
-            piece represents a journey of innovation, problem-solving, and
+            piece represents a journey of invention, problem-solving, and
             continuous learning. Feel free to explore this showcase of my
             passion and expertise in action.
           </p>
