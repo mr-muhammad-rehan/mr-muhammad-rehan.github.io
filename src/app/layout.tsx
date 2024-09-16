@@ -131,7 +131,7 @@ export default function RootLayout({
       <body className={`${poppins.variable} ${rubik.variable}`}>
         <main
           className={cn(
-            "flex relative screen break-words min-h-screen items-center justify-between pt-14 pb-4 px-40 max-md:p-4 bg-transparent max-sm:pt-20 bg-[radial-gradient(#2f7df4_1px,transparent_1px)] [background-size:90px_90px]",
+            "flex relative screen break-words min-h-screen items-center justify-between pt-14 pb-4 px-40 max-md:p-4 bg-transparent max-sm:pt-20 bg-[radial-gradient(#2f7df4_1px,transparent_1px)] [background-size:16px_16px]",
             { "bg-white": "#E6E7EB" }
           )}
         >
@@ -143,6 +143,16 @@ export default function RootLayout({
       </body>
       <GoogleAnalytics gaId="G-4VHSC56WM8" />
       <script async defer src="https://scripts.simpleanalyticscdn.com/latest.js"></script>
+      <script
+        type="text/javascript"
+        dangerouslySetInnerHTML={{
+          __html: `(function(c,l,a,r,i,t,y){
+                  c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+                  t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+                  y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+              })(window, document, "clarity", "script", "o44ieznnxr");`,
+        }}
+      />
       <noscript><img src="https://queue.simpleanalyticscdn.com/noscript.gif" alt="" referrerPolicy="no-referrer-when-downgrade" /></noscript>
     </html>
   );
