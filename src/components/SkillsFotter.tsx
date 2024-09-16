@@ -11,8 +11,9 @@ const SkillsFooter:React.FC<MyComponentProps> = ({items}) => {
     <>
       { items && items.map((val, indx) => {
         return (
-          <div className="p-4" key={indx}>
-            <Image src={val?.img} alt={val?.alt} className="w-auto max-h-20" />
+          <div className="p-1 bg-white border-2 border-gray-500 rounded-lg overflow-hidden flex flex-col items-center justify-between" key={indx}>
+            <Image src={val?.img} alt={val?.alt} className="w-20 h-20" />
+            <span className="text-xs">{val?.alt}</span>
           </div>
         );
       })}
