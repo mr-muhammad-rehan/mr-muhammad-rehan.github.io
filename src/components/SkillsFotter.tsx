@@ -1,9 +1,10 @@
+import { Technology } from "@/app/skills/page";
 import Image from "next/image";
 import React from "react";
 
 
 interface MyComponentProps{
-    items:Array<{ alt: string; img: any }>
+    items:Array<Technology>
 }
 
 const SkillsFooter:React.FC<MyComponentProps> = ({items}) => {

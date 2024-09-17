@@ -8,6 +8,7 @@ import {
   PackagePlus,
   Phone,
   User2,
+  SquareTerminal,
 } from "lucide-react";
 import { buttonVariants } from "./ui/button";
 
@@ -28,7 +29,8 @@ const Navbar = () => {
     { name: "about", icon: <User2 />,link: "/about" },
     { name: "skills", icon: <Lightbulb />, link: "/skills" },
     { name: "projects", icon: <Layers />, link: "/projects" },
-    { name: "work", icon: <Briefcase />, link: "/education" },
+    { name: "prompts", icon: <SquareTerminal />, link: "/prompts" },
+    { name: "Education", icon: <Briefcase />, link: "/education" },
     { name: "more", icon: <PackagePlus />, link: "/more" },
     { name: "contact", icon: <Phone />, link: "/contact" },
   ];
