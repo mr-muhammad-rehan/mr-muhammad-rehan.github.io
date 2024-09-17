@@ -27,7 +27,7 @@ import laravel from '../../../public/laravel.svg';
 import vercel from '../../../public/vercel.svg';
 import FramerWrapper from "@/components/FramerWrapper";
 
-interface Technology {
+export interface Technology {
   alt: string;
   img: string;
 }
