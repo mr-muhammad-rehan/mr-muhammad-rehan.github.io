@@ -28,6 +28,13 @@ const projectsPage = () => {
       tags: ["Windows Forms", ".NET Desktop", "C#", "ZKTeco"],
       link: "https://github.com/mr-muhammad-rehan/ZK-Device-Door-Opener",
     },
+    {
+      title: "Zkteco SpeedFace-V5L-RFID - Attendance management system",
+      description:
+        "Access is a comprehensive Attendance Device Management System designed to handle biometric and access control data from various devices. This system is built using Laravel, a PHP framework, and provides functionalities to store and manage user and fingerprint data.",
+      tags: ["Laravel", "Php", "Linux", "ZKTeco"],
+      link: "https://github.com/mr-muhammad-rehan/ZK-Device-Door-Opener",
+    },
   ];
 
   return (
